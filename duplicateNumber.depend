@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507640806 source:/home/mohamed-galal/Desktop/Embedded/duplicateNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+
